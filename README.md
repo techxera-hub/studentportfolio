@@ -8,6 +8,8 @@ This repository contains 10 independent portfolio projects (`student-portfolio-0
 
 ### Included Designs
 
+      File-name                Style of the UI/UX                          http links/public links
+      
 1. **student-portfolio-01**: Editorial Index (hover preview index) // https://subhamkumar.vercel.app
 2. **student-portfolio-02**: Bento Studio (spotlight tiles) // https://susmitaportfolio.vercel.app
 3. **student-portfolio-03**: Swiss Grid (grid rows) // https://abhisekchand.vercel.app
@@ -26,6 +28,9 @@ See [START-HERE.md](START-HERE.md) and [DESIGNS.md](DESIGNS.md) for detailed set
 ### Quick Setup
 
 Choose any portfolio folder (e.g., `student-portfolio-01`):
+
+Any student went to run the code to your computer and change anything in portfolio then downlode the code and open in any code editor and change.
+the repo are public any one download and use .
 
 ```bash
 cd student-portfolio-01
