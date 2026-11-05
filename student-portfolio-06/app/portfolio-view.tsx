@@ -674,8 +674,8 @@ export default function PortfolioView({
                 (index === 0
                   ? 'var(--ca-blue)'
                   : index === 1
-                  ? 'var(--ca-ink)'
-                  : 'var(--ca-orange)');
+                    ? 'var(--ca-ink)'
+                    : 'var(--ca-orange)');
               const isDarkColor =
                 projectColor.includes('blue') ||
                 projectColor.includes('ink') ||
