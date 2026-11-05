@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Kavach — Campus Transit & Night Safety App",
+    "category": "UI/UX & Interaction Design",
+    "description": "A comprehensive mobile safety and transit ecosystem designed for university students. Features low-light night mode, real-time campus shuttle tracking, SOS safety circles, and high-contrast accessibility validated through field user research with 80+ campus residents.",
+    "url": "https://github.com/aarav-design/kavach-campus-safety",
+    "image": "",
+    "year": "2026"
+  },
+  {
+    "title": "Prism — Multi-Brand Design Token Architecture",
+    "category": "Design Systems & Code",
+    "description": "An end-to-end design token pipeline bridging Figma tokens with React and Tailwind CSS. Built with automated semantic color modes, WCAG AAA contrast guarantees, fluid typography scales, and synchronized documentation for designers and engineers.",
+    "url": "https://github.com/aarav-design/prism-design-system",
+    "image": "",
+    "year": "2025"
+  }
+]

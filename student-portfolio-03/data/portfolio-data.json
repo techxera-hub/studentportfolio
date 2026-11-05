@@ -1,0 +1,77 @@
+{
+  "name": "Abhisek chand",
+  "role": "Full-Stack Developer & UI Engineer",
+  "headline": "The function of good software is to make the complex appear to be simple.",
+  "bio": "About Me\n\nHi, I'm Abhisek Chand, a passionate Full Stack Developer who enjoys building modern, responsive, and user-friendly web applications.\n\nI love turning ideas into real-world digital experiences using modern technologies. I have an interest in both frontend and backend development, creating seamless user interfaces and powerful backend solutions.\n\nI'm always eager to learn new technologies, improve my problem-solving skills, and take on challenging projects. My goal is to build scalable, efficient, and impactful applications while continuously growing as a developer.\n\nI believe in writing clean code, learning continuously, and building things that make a difference.",
+  "location": "bhubanaswera",
+  "email": "abhisekchandsonu@gmail.com",
+  "availability": "",
+  "photo": "https://i.postimg.cc/02c7cDv8/IMG-20251014-205708266-abhisek-chand-sonu.jpg",
+  "resume": "",
+  "github": "https://github.com/malliksatyam46",
+  "linkedin": "https://linkedin.com/in/satyam-mallik",
+  "instagram": "",
+  "accent": "#CC482A",
+  "layout": "editorial",
+  "skills": [
+    "Python",
+    "C",
+    "HTML"
+  ],
+  "projects": [
+    {
+      "title": "Campus Connect",
+      "category": "Full-Stack Web Application",
+      "description": "A unified campus collaboration network connecting students, clubs, and faculty. Features real-time notifications, event scheduling, peer resource sharing, and role-based discussions.",
+      "url": "https://github.com/malliksatyam46/campus-connect",
+      "image": "",
+      "year": "2026"
+    },
+    {
+      "title": "Everyday Studio",
+      "category": "Productivity & Interface System",
+      "description": "A minimalist productivity workspace and habit tracking tool designed with focus mode, local-first state caching, accessible keyboard shortcuts, and custom data visualizations.",
+      "url": "https://github.com/malliksatyam46/everyday-studio",
+      "image": "",
+      "year": "2026"
+    },
+    {
+      "title": "Personal Playground",
+      "category": "Creative Engineering Lab",
+      "description": "An interactive exploration of mathematical animations, micro-interactions, canvas shaders, generative SVG graphics, and performance profiling experiments.",
+      "url": "https://github.com/malliksatyam46/personal-playground",
+      "image": "",
+      "year": "2026"
+    }
+  ],
+  "education": [
+    {
+      "school": "Nalanda Institute of Technology",
+      "degree": "B.Tech in Computer Science & Engineering",
+      "period": "2025 — 2029",
+      "detail": "Core coursework in Data Structures, Database Systems, Computer Networks, Distributed Architecture, and Human-Computer Interaction."
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Open Source & Independent Projects",
+      "role": "Full-Stack Developer",
+      "period": "2025 — Present",
+      "detail": "Engineered responsive web applications and backend microservices using TypeScript, Next.js, and Cloudflare Workers with strict end-to-end type safety."
+    },
+    {
+      "company": "Student Tech Community",
+      "role": "Frontend Engineering Lead",
+      "period": "2024 — 2025",
+      "detail": "Mentored peers in modern React and TypeScript best practices, organized technical workshops, and coordinated collaborative open-source projects."
+    }
+  ],
+  "achievements": [
+    "Finalist — National Student Hackathon for Campus Connect Collaborative Platform (2025)",
+    "Dean’s List for Academic Merit & Technical Innovation (2024 — 2025)",
+    "Contributed to modern open-source UI libraries and developer utility toolkits"
+  ],
+  "showEducation": true,
+  "showExperience": true,
+  "showAchievements": true
+}

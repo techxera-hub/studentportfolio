@@ -1,0 +1,54 @@
+{
+  "profile": {
+    "name": "Somesh jena",
+    "role": "Full-Stack Engineer & Interaction Designer",
+    "headline": "Innovator",
+    "bio": "About Me\n\nHi, I'm Somesh Jena, a passionate Full Stack Developer who enjoys building modern, responsive, and user-friendly web applications.\n\nI love turning ideas into real-world digital experiences using modern technologies. I have an interest in both frontend and backend development, creating seamless user interfaces and powerful backend solutions.\n\nI'm always eager to learn new technologies, improve my problem-solving skills, and take on challenging projects. My goal is to build scalable, efficient, and impactful applications while continuously growing as a developer.\n\nI believe in writing clean code, learning continuously, and building things that make a difference.",
+    "location": "bhubanswera odisha",
+    "email": "Someshjena@89gmail.com",
+    "availability": "Available for Summer 2026 Internships & Freelance Projects",
+    "photo": "https://i.postimg.cc/QC6Vkg78/IMG-20230612-171109-Somesh-Jena.jpg",
+    "resume": "",
+    "github": "https://github.com",
+    "linkedin": "https://linkedin.com",
+    "instagram": "https://instagram.com",
+    "accent": "#f4e56b",
+    "layout": "editorial",
+    "skills": [
+      "",
+      "Node.js",
+      "Python",
+      "PostgreSQL",
+      "c",
+      "",
+      ""
+    ],
+    "projects": [],
+    "education": [
+      {
+        "school": "National Institute of Technology",
+        "degree": "B.Tech in Computer Science & Engineering",
+        "period": "2025 - 2029",
+        "detail": "Focus on Data Structures, Distributed Systems, Modern Web Architecture, and Human-Computer Interaction."
+      }
+    ],
+    "experiences": [
+      {
+        "company": "TechXera Open Labs",
+        "role": "Frontend Engineering Intern",
+        "period": "Summer 2025",
+        "detail": "Engineered real-time collaboration widgets, optimized render loops, and contributed to design system accessibility."
+      }
+    ],
+    "achievements": [
+      "1st Place, National Campus Hackathon 2025 (Built an AI-assisted accessibility reader)",
+      "Published open-source React component library with 1,200+ GitHub stars",
+      "Core contributor to campus tech community and mentorship lead for 60+ junior students"
+    ],
+    "showEducation": true,
+    "showExperience": true,
+    "showAchievements": true
+  },
+  "revision": 14,
+  "updatedAt": "2026-11-05T04:52:20.418Z"
+}

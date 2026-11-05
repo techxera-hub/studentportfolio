@@ -1,0 +1,77 @@
+{
+  "profile": {
+    "name": "Susmita jena",
+    "role": "UI / UX designer",
+    "headline": "Simple design.\nMeaningful experiences.",
+    "bio": "I am a forward-thinking B.Tech student driven by a deep curiosity for how things work and a passion for continuous learning",
+    "location": "India",
+    "email": "",
+    "availability": "Open to internships & collaborations",
+    "photo": "https://i.postimg.cc/qRzFv4Gm/Screenshot-2025-10-14-19-55-43-21-99c04817c0de5652397fc8b56c3b3817-Yfgdyyf-Hchcu.jpg",
+    "resume": "",
+    "github": "",
+    "linkedin": "",
+    "instagram": "",
+    "accent": "#9745d8",
+    "layout": "centered",
+    "skills": [
+      "React",
+      "JavaScript",
+      "UI design",
+      "Figma",
+      "Python",
+      "Problem solving"
+    ],
+    "projects": [
+      {
+        "title": "Campus Connect",
+        "category": "Web development",
+        "description": "A sample campus community project for sharing events, opportunities, and resources in one place.",
+        "url": "",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXO-YUExBoVNMgUUXtjJJ21onwLNV2pWlnK10GnYVd-CnXiwuvQu9cGbKy&s=10",
+        "year": "2026"
+      },
+      {
+        "title": "Everyday Studio",
+        "category": "Product design",
+        "description": "A sample design exploration that makes a daily habit easier through a focused, approachable interface.",
+        "url": "",
+        "image": "https://cdn.prod.website-files.com/636b7525cedc3957f6d76638/648c57dfbf4732a2ba14babb_Fluid_Thumbnail-1320%20x%20800.jpg",
+        "year": "2026"
+      },
+      {
+        "title": "Personal Playground",
+        "category": "Creative coding",
+        "description": "A sample collection of interactive experiments, small tools, and ideas built while learning.",
+        "url": "",
+        "image": "https://daxg39y63pxwu.cloudfront.net/images/blog/how-to-start-an-ai-project/How_to_start_an_AI_project.webp",
+        "year": "2026"
+      }
+    ],
+    "education": [
+      {
+        "school": "Nalanda Institute of Technology",
+        "degree": "Your degree / course",
+        "period": "2025 — 2029",
+        "detail": "Add your field of study, relevant coursework, and activities."
+      }
+    ],
+    "experiences": [
+      {
+        "company": "Your organization",
+        "role": "Your role",
+        "period": "2026",
+        "detail": "Describe the work you did and what you learned."
+      }
+    ],
+    "achievements": [
+      "Add your certification, competition result, or academic achievement."
+    ],
+    "showEducation": true,
+    "showExperience": true,
+    "showAchievements": true
+  },
+  "revision": 38,
+  "updatedAt": "2026-11-05T04:44:01.341Z",
+  "messages": []
+}

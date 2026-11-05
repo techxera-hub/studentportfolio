@@ -1,0 +1,66 @@
+{
+  "name": "Swo prakash sahu",
+  "role": "technical",
+  "headline": "Developer",
+  "bio": "About Me\n\nHi, I'm Swo Prakash Sahu, a passionate Full Stack Developer who enjoys creating modern, responsive, and user-friendly web applications.\n\nI love exploring new technologies and turning creative ideas into real-world projects. I have an interest in frontend and backend development, with a focus on building smooth user experiences and efficient solutions.\n\nI'm always eager to learn, improve my coding skills, and take on new challenges. My goal is to become a skilled developer and create innovative digital solutions.\n\nPassionate about coding, creativity, and continuous learning.",
+  "location": "bhubanswera, odisha",
+  "email": "swoprakash08@gmail.com",
+  "availability": "Available for Summer Internships & Full Stack Roles",
+  "photo": "https://i.postimg.cc/3xGJdQtK/IMG-20250522-175038-Swoprakash.jpg",
+  "resume": "https://example.com/aarav-sharma-btech-design-resume.pdf",
+  "github": "https://github.com/aarav-design",
+  "linkedin": "https://linkedin.com/in/aarav-sharma-design",
+  "instagram": "https://instagram.com/aarav.ux",
+  "behance": "https://behance.net/aaravdesign",
+  "dribbble": "https://dribbble.com/aaravsharma",
+  "accent": "#b43b59",
+  "layout": "editorial",
+  "skills": [
+    "Full Stack Development",
+    "React & Next.js",
+    "Node.js & Express",
+    "TypeScript & JavaScript",
+    "Python",
+    "Tailwind CSS",
+    "PostgreSQL & SQLite",
+    "REST APIs & WebSockets",
+    "Git & GitHub",
+    "Problem Solving"
+  ],
+  "projects": [
+    {
+      "title": "Kavach — Campus Transit & Night Safety App",
+      "category": "UI/UX & Interaction Design",
+      "description": "A comprehensive mobile safety and transit ecosystem designed for university students. Features low-light night mode, real-time campus shuttle tracking, SOS safety circles, and high-contrast accessibility validated through field user research with 80+ campus residents.",
+      "url": "https://github.com/aarav-design/kavach-campus-safety",
+      "image": "",
+      "year": "2026"
+    },
+    {
+      "title": "Prism — Multi-Brand Design Token Architecture",
+      "category": "Design Systems & Code",
+      "description": "An end-to-end design token pipeline bridging Figma tokens with React and Tailwind CSS. Built with automated semantic color modes, WCAG AAA contrast guarantees, fluid typography scales, and synchronized documentation for designers and engineers.",
+      "url": "https://github.com/aarav-design/prism-design-system",
+      "image": "",
+      "year": "2025"
+    }
+  ],
+  "education": [
+    {
+      "school": "National Institute of Technology (NIT) · Department of Design",
+      "degree": "Nalanda Institute of Technology",
+      "period": "2025 — 2029",
+      "detail": "Specializing in Human-Computer Interaction, Design Thinking, Visual Communication, Ergonomics, and Frontend Engineering. CGPA: 8.9 / 10. Relevant Coursework: Usability Engineering, Interactive Media, Tangible User Interfaces, Cognitive Ergonomics."
+    }
+  ],
+  "experiences": [],
+  "achievements": [
+    "Winner — National Student Design Hackathon 2025 (Best Human-Centered Interface Award)",
+    "Author — \"Ergonomics of Fluid Touch Interfaces\", Student HCI Research Colloquium 2025",
+    "Figma Community Creator — Over 15,000+ downloads for \"Design Token & Layout Starter Kit\""
+  ],
+  "showEducation": true,
+  "showExperience": true,
+  "showAchievements": true
+}
+

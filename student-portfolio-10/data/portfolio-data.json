@@ -1,0 +1,79 @@
+{
+  "name": "Sneha Rani Sahu ",
+  "role": "Full Stack Engineer ",
+  "headline": "High-Impact Intelligent Software.",
+  "bio": "There are multiple people named Sneha Rani Sahu online, so I don't want to mix up their details.\nIs this the Sneha Rani Sahu whose portfolio you want to create? Please tell me her education or college and technical field.\nI can then write a professional first-person portfolio introduction, just like Arupananda Lenka's, ready to copy and paste.",
+  "location": "Bhubaneswar, India",
+  "email": "snehawq2007@gmail.com",
+  "phone": "8926250750",
+  "availability": "Available for Summer 2026 Internships & High-Impact Engineering Roles",
+  "photo": "https://i.postimg.cc/xdKvG71c/IMG-20251014-WA0001-Sneha.jpg",
+  "resume": "https://example.com/satyam-resume.pdf",
+  "github": "",
+  "linkedin": "",
+  "instagram": "",
+  "twitter": "",
+  "accent": "#2563eb",
+  "layout": "editorial",
+  "stats": [
+    {
+      "label": "Years Engineering",
+      "value": "2+",
+      "subtext": "Continuous building & shipping"
+    },
+    {
+      "label": "Production Projects",
+      "value": "12+",
+      "subtext": "Full stack, AI & cloud systems"
+    },
+    {
+      "label": "Open Source PRs",
+      "value": "45+",
+      "subtext": "Merged into modern toolchains"
+    },
+    {
+      "label": "Hackathons Won",
+      "value": "4x",
+      "subtext": "National & university podiums"
+    }
+  ],
+  "skills": [
+    "Python",
+    "PostgreSQL",
+    "c"
+  ],
+  "projects": [],
+  "education": [
+    {
+      "school": "Nalanda Institute of Technology",
+      "degree": "B.Tech in Computer Science & Engineering",
+      "period": "2025 — 2029",
+      "detail": "Specialization in Artificial Intelligence and Cloud Computing. CGPA: 9.2/10. Secretary of the Open Source Society and Lead Organizer for HackITER 2025."
+    },
+    {
+      "school": "Delhi Public School",
+      "degree": "Higher Secondary (CBSE - Science)",
+      "period": "2021 — 2023",
+      "detail": "Graduated with 95.4% aggregate. National Science Olympiad Finalist and School Coding Club President."
+    }
+  ],
+  "experiences": [
+    {
+      "company": "TechXera Labs",
+      "role": "Software Engineering Intern",
+      "period": "May 2025 — Present",
+      "detail": "Architected low-latency microservices handling millions of daily events. Reduced API p99 latency by 38% through caching strategies and distributed connection pooling."
+    },
+    {
+      "company": "Open Source Initiative",
+      "role": "Core Contributor & Mentor",
+      "period": "2024 — Present",
+      "detail": "Contributed performance optimizations to modern JavaScript runtime tooling, authored documentation, and mentored 15+ student contributors across 4 hackathons."
+    }
+  ],
+  "achievements": [],
+  "showEducation": true,
+  "showExperience": true,
+  "showAchievements": true,
+  "showStats": true
+}

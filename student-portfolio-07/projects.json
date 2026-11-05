@@ -1,0 +1,66 @@
+{
+  "name": "PIUSHA PRIYADARSHAN ROUT",
+  "role": " Frontend Engineer",
+  "headline": "Student Designer & Creative Technologist ",
+  "bio": "About Me\n\nHi, I'm Piusha Priyadarshan Rout, a passionate and dedicated Full Stack Developer who enjoys building modern, responsive, and user-friendly web applications.\n\nI love turning creative ideas into practical digital solutions using modern technologies. I have an interest in both frontend and backend development, with a focus on clean code, problem-solving, and creating smooth user experiences.\n\nI'm always eager to learn new technologies, improve my development skills, and explore exciting challenges. My goal is to build innovative, efficient, and scalable applications while growing as a developer.\n\nPassionate about coding, creativity, and continuous learning.",
+  "location": "bhubaneswra",
+  "email": "piusharout6@gmail.com",
+  "phone": "+91 98765 43210",
+  "availability": "Available for Summer 2026 Internships & Design Engineering Roles",
+  "photo": "",
+  "resume": "https://example.com/aarav-resume.pdf",
+  "github": "https://github.com/aaravsharma",
+  "linkedin": "https://linkedin.com/in/aaravsharma-design",
+  "instagram": "https://instagram.com/aarav.designs",
+  "accent": "#765126",
+  "layout": "editorial",
+  "skills": [
+    "UI/UX Design",
+    "Motion & Micro-interactions",
+    "c",
+    "python"
+  ],
+  "projects": [
+    {
+      "title": "Personal Playground",
+      "category": "Creative coding",
+      "description": "An interactive digital sandbox of creative coding experiments, WebGL canvas shaders, SVG generative geometry, and sound-reactive visualizations built to explore new frontend techniques.",
+      "url": "https://github.com/aaravsharma/personal-playground",
+      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=1200&q=80",
+      "year": "2026"
+    }
+  ],
+  "education": [
+    {
+      "school": "National Institute of Technology",
+      "degree": "Bachelor of Technology in Computer Science & Engineering",
+      "period": "2024 — 2028",
+      "detail": "Core coursework: Data Structures, Algorithms, Human-Computer Interaction, Web Architectures, Database Systems. Active core lead at Developer Student Clubs."
+    },
+    {
+      "school": "Delhi Public School",
+      "degree": "Higher Secondary Certificate (PCM + Computer Science)",
+      "period": "2022 — 2024",
+      "detail": "Graduated with 96.4% distinction. Lead organizer for Inter-school Tech & Robotics Symposium."
+    }
+  ],
+  "experiences": [
+    {
+      "company": "Kreativ Design Labs",
+      "role": "Frontend & UI Engineering Intern",
+      "period": "Summer 2025",
+      "detail": "Engineered responsive web applications and interactive component libraries for 4 enterprise client portfolios. Reduced bundle size by 28% and improved Core Web Vitals to 98/100."
+    },
+    {
+      "company": "Open Source Community",
+      "role": "Contributor & Design Maintainer",
+      "period": "2024 — Present",
+      "detail": "Authored documentation, built UI accessibility enhancements, and submitted merged PRs across modern web design toolkits and developer CLI utilities."
+    }
+  ],
+  "achievements": [],
+  "showEducation": true,
+  "showExperience": true,
+  "showAchievements": true,
+  "lastUpdated": "2026-11-04T19:17:45.891Z"
+}
