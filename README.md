@@ -27,7 +27,7 @@ See [START-HERE.md](START-HERE.md) and [DESIGNS.md](DESIGNS.md) for detailed set
 
 ### Quick Setup
 
-Choose any portfolio folder (e.g., `student-portfolio-01`):
+Choose any portfolio folder (e.g., `student-portfolio-01`,`student-portfolio-02`):
 
 Any student went to run the code to your computer and change anything in portfolio then downlode the code and open in any code editor and change.
 the repo are public any one download and use .
