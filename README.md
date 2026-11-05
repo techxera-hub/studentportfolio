@@ -8,16 +8,16 @@ This repository contains 10 independent portfolio projects (`student-portfolio-0
 
 ### Included Designs
 
-1. **student-portfolio-01**: Editorial Index (hover preview index)
-2. **student-portfolio-02**: Bento Studio (spotlight tiles)
-3. **student-portfolio-03**: Swiss Grid (grid rows)
-4. **student-portfolio-04**: Bold Poster (poster blocks)
-5. **student-portfolio-05**: Personal Journal (accordion stories)
-6. **student-portfolio-06**: Scroll Chapters (parallax chapters)
-7. **student-portfolio-07**: Split Profile (timeline feed)
-8. **student-portfolio-08**: Developer Terminal (command tabs)
-9. **student-portfolio-09**: Playful Board (draggable cards)
-10. **student-portfolio-10**: Project Gallery (gallery carousel)
+1. **student-portfolio-01**: Editorial Index (hover preview index) // https://subhamkumar.vercel.app
+2. **student-portfolio-02**: Bento Studio (spotlight tiles) // https://susmitaportfolio.vercel.app
+3. **student-portfolio-03**: Swiss Grid (grid rows) // https://abhisekchand.vercel.app
+4. **student-portfolio-04**: Bold Poster (poster blocks) // https://someshjena.vercel.app
+5. **student-portfolio-05**: Personal Journal (accordion stories)  // https://swoprakash.vercel.app
+6. **student-portfolio-06**: Scroll Chapters (parallax chapters) // https://subhamkhandelwal.vercel.app
+7. **student-portfolio-07**: Split Profile (timeline feed) // https://piushaportfolio.vercel.app
+8. **student-portfolio-08**: Developer Terminal (command tabs) // https://mrutiranjan.vercel.app
+9. **student-portfolio-09**: Playful Board (draggable cards) // https://aaravportfoliodev.vercel.app
+10. **student-portfolio-10**: Project Gallery (gallery carousel) // https://sneharani.vercel.app
 
 ## Getting Started
 
