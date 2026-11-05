@@ -14,6 +14,7 @@ const nextConfig = {
       config.resolve.alias = {
         ...(config.resolve.alias || {}),
         'cloudflare:workers': path.resolve(__dirname, 'lib/cloudflare-mock.ts'),
+        'styled-jsx/style': path.resolve(__dirname, 'styled-jsx-style.js'),
       };
     }
     return config;

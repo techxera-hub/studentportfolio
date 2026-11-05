@@ -356,7 +356,7 @@ export default function AdminPortal() {
           </a>
 
           <button
-            onClick={handleSaveToDisk}
+            onClick={() => handleSaveToDisk()}
             disabled={saveStatus === 'saving'}
             style={{
               ...styles.saveButton,
@@ -982,7 +982,7 @@ export default function AdminPortal() {
                   Target file on hard drive: <code>d:\...\student-portfolio-06\projects.json</code>
                 </p>
               </div>
-              <button onClick={handleSaveToDisk} style={styles.saveButton}>
+              <button onClick={() => handleSaveToDisk()} style={styles.saveButton}>
                 <Save size={15} style={{ marginRight: '6px' }} />
                 Instant Save to Disk
               </button>
